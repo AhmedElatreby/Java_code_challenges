@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LetterPoints (1)" />
+        <module name="ModelAPerson" />
+        <module name="DaysFromNow" />
+        <module name="RedactSecretMessage" />
+        <module name="WaterBill (1)" />
+        <module name="EndOfYearSale" />
+        <module name="StudentVolunteers (1)" />
+        <module name="ParseCSV" />
+        <module name="JokeGenerator" />
+        <module name="ElevatorChallenge" />
+        <module name="DetermineWinner (1)" />
+        <module name="DoubleOrNothing (1)" />
+        <module name="DetermineWinner" />
+        <module name="ElevatorChallenge (1)" />
+        <module name="LetterPoints" />
+        <module name="EvenOrOdd" />
+        <module name="DoubleOrNothing" />
+        <module name="PasswordComplexity" />
+        <module name="StudentVolunteers" />
+        <module name="InvestingChange" />
+        <module name="EvenOrOdd (1)" />
+        <module name="PasswordComplexity (1)" />
+        <module name="InvestingChange (1)" />
+        <module name="WaterBill" />
+        <module name="RedactSecretMessage (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DaysFromNow" target="15" />
+      <module name="DetermineWinner" target="15" />
+      <module name="DetermineWinner (1)" target="15" />
+      <module name="DoubleOrNothing" target="15" />
+      <module name="DoubleOrNothing (1)" target="15" />
+      <module name="ElevatorChallenge" target="15" />
+      <module name="ElevatorChallenge (1)" target="15" />
+      <module name="EndOfYearSale" target="15" />
+      <module name="EvenOrOdd" target="15" />
+      <module name="EvenOrOdd (1)" target="15" />
+      <module name="InvestingChange" target="15" />
+      <module name="InvestingChange (1)" target="15" />
+      <module name="JokeGenerator" target="15" />
+      <module name="LetterPoints" target="15" />
+      <module name="LetterPoints (1)" target="15" />
+      <module name="ModelAPerson" target="15" />
+      <module name="ParseCSV" target="15" />
+      <module name="PasswordComplexity" target="15" />
+      <module name="PasswordComplexity (1)" target="15" />
+      <module name="RedactSecretMessage" target="15" />
+      <module name="RedactSecretMessage (1)" target="15" />
+      <module name="StudentVolunteers" target="15" />
+      <module name="StudentVolunteers (1)" target="15" />
+      <module name="WaterBill" target="15" />
+      <module name="WaterBill (1)" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

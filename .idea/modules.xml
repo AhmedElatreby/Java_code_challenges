@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_01/begin/DaysFromNow/DaysFromNow.iml" filepath="$PROJECT_DIR$/02_01/begin/DaysFromNow/DaysFromNow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_02/end/DetermineWinner/DetermineWinner.iml" filepath="$PROJECT_DIR$/03_02/end/DetermineWinner/DetermineWinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_02/begin/DetermineWinner/DetermineWinner (1).iml" filepath="$PROJECT_DIR$/03_02/begin/DetermineWinner/DetermineWinner (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_03/end/DoubleOrNothing/DoubleOrNothing.iml" filepath="$PROJECT_DIR$/01_03/end/DoubleOrNothing/DoubleOrNothing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_03/begin/DoubleOrNothing/DoubleOrNothing (1).iml" filepath="$PROJECT_DIR$/01_03/begin/DoubleOrNothing/DoubleOrNothing (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_01/end/ElevatorChallenge/ElevatorChallenge.iml" filepath="$PROJECT_DIR$/03_01/end/ElevatorChallenge/ElevatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_01/begin/ElevatorChallenge/ElevatorChallenge (1).iml" filepath="$PROJECT_DIR$/03_01/begin/ElevatorChallenge/ElevatorChallenge (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_04/begin/EndOfYearSale/EndOfYearSale.iml" filepath="$PROJECT_DIR$/02_04/begin/EndOfYearSale/EndOfYearSale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_01/end/EvenOrOdd/EvenOrOdd.iml" filepath="$PROJECT_DIR$/01_01/end/EvenOrOdd/EvenOrOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_01/begin/EvenOrOdd/EvenOrOdd (1).iml" filepath="$PROJECT_DIR$/01_01/begin/EvenOrOdd/EvenOrOdd (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_05/end/InvestingChange/InvestingChange.iml" filepath="$PROJECT_DIR$/02_05/end/InvestingChange/InvestingChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_05/begin/InvestingChange/InvestingChange (1).iml" filepath="$PROJECT_DIR$/02_05/begin/InvestingChange/InvestingChange (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_03/begin/JokeGenerator/JokeGenerator.iml" filepath="$PROJECT_DIR$/03_03/begin/JokeGenerator/JokeGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_03/end/LetterPoints/LetterPoints.iml" filepath="$PROJECT_DIR$/02_03/end/LetterPoints/LetterPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_03/begin/LetterPoints/LetterPoints (1).iml" filepath="$PROJECT_DIR$/02_03/begin/LetterPoints/LetterPoints (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_05/begin/ModelAPerson/ModelAPerson.iml" filepath="$PROJECT_DIR$/01_05/begin/ModelAPerson/ModelAPerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_05/end/ParseCSV/ParseCSV.iml" filepath="$PROJECT_DIR$/03_05/end/ParseCSV/ParseCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_02/end/PasswordComplexity/PasswordComplexity.iml" filepath="$PROJECT_DIR$/01_02/end/PasswordComplexity/PasswordComplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_02/begin/PasswordComplexity/PasswordComplexity (1).iml" filepath="$PROJECT_DIR$/01_02/begin/PasswordComplexity/PasswordComplexity (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_04/end/RedactSecretMessage/RedactSecretMessage.iml" filepath="$PROJECT_DIR$/03_04/end/RedactSecretMessage/RedactSecretMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_04/begin/RedactSecretMessage/RedactSecretMessage (1).iml" filepath="$PROJECT_DIR$/03_04/begin/RedactSecretMessage/RedactSecretMessage (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02/end/StudentVolunteers/StudentVolunteers.iml" filepath="$PROJECT_DIR$/02_02/end/StudentVolunteers/StudentVolunteers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02/begin/StudentVolunteers/StudentVolunteers (1).iml" filepath="$PROJECT_DIR$/02_02/begin/StudentVolunteers/StudentVolunteers (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_04/end/WaterBill/WaterBill.iml" filepath="$PROJECT_DIR$/01_04/end/WaterBill/WaterBill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_04/begin/WaterBill/WaterBill (1).iml" filepath="$PROJECT_DIR$/01_04/begin/WaterBill/WaterBill (1).iml" />
+    </modules>
+  </component>
+</project>
