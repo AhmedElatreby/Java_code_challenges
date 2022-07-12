@@ -3,7 +3,16 @@ import java.util.Scanner;
 public class EvenOrOdd {
 
    public static boolean isEven(int n) {
-       return true;
+       /*
+       A shorter way
+       return n % 2 == 0;
+        */
+
+       if ( n % 2 == 0 ) {
+           return true;
+       } else {
+           return false;
+       }
    }
 
    public static void main(String[] args) {
