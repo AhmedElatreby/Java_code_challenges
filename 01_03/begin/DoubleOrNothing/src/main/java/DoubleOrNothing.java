@@ -42,7 +42,7 @@ public class DoubleOrNothing {
     }
 
     private void printCongrats() {
-        System.out.println("Congrats! You now have " +
+        System.out.println("Congrats! You now have  " +
                 this.current + " points \n");
     }
 
